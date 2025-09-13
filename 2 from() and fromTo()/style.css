@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.square{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    margin-top: 5%;
+    margin-left: 2%;
+    border: 2px solid rgb(33, 67, 2);
+}

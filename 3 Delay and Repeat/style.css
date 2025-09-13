@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.delay{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-top: 5%;
+    margin-left: 2%;
+    border: 2px solid rgb(33, 67, 2);
+}
+
+.repeat{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-top: 5%;
+    margin-left: 2%;
+    border: 2px solid rgb(33, 67, 2);
+}

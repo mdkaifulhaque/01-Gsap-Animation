@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+body{
+    overflow: hidden;
+}
+
+#main {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(27, 27, 27);
+}
+
+#nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 40px;
+    padding: 0 30px;
+}
+
+#nav-part2 {
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+
+#nav h3 {
+    font-weight: 500;
+    font-family: gilroy;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+#nav-part2 h3 {
+    font-weight: 500;
+    font-family: gilroy;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+#main h1 {
+    /* background-color: brown; */
+    position: relative;
+    z-index: 9;
+    font-size: 100px;
+    font-weight: 400;
+    font-family: gilroy;
+    text-transform: uppercase;
+    line-height: 80px;
+    width: 70%;
+    margin-left: 15%;
+}
+
+#main h1:nth-child(2) {
+    margin-top: 170px;
+}
+
+#main h1:nth-child(3) {
+    text-align: center;
+}
+
+#main h1:nth-child(4) {
+    text-align: center;
+}
+
+img {
+    height: 300px;
+    position: absolute;
+    top: 17%;
+    left: 45%;
+
+}
+
+#img2 {
+    rotate: 25deg;
+}
+
+#img3 {
+    rotate: 10deg;
+}
+
+#bottom {
+    padding: 0 30px;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    bottom: -30%;
+
+}
+
+#bottom h3 {
+    font-weight: 500;
+    font-family: gilroy;
+    text-transform: uppercase;
+    font-size: 12px;
+    text-align: center;
+    
+}
+
+

@@ -14,4 +14,4 @@ Small GSAP demos made while learning and experimenting with animations.
    ```bash
    git clone https://github.com/mdkaifulhaque/01-Gsap-Animation.git
    
-<sub>1. GSAP 3 Express</sub>
+                                               <sub>1. GSAP 3 Express</sub>

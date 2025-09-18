@@ -1,4 +1,5 @@
-# 01 – GSAP Animation
+# 01 – GSAP Animation   
+<sub>1. GSAP 3 Express</sub>
 
 Small GSAP demos made while learning and experimenting with animations.
 
@@ -13,6 +14,3 @@ Small GSAP demos made while learning and experimenting with animations.
 1. Clone the repo:
    ```bash
    git clone https://github.com/mdkaifulhaque/01-Gsap-Animation.git
-   
-   
-                                        <sub>1. GSAP 3 Express</sub>
